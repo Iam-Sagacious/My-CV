@@ -31,4 +31,4 @@
    
   
 ## Project URL
-https://github.com/Iam-Sagacious/My-CV
+https://roadmap.sh/projects/single-page-cv
